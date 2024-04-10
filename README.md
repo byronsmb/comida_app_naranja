@@ -1,16 +1,11 @@
 # comida_app_naranja
 
-A new Flutter project.
+Aplicacion UI de comida con temática color naranja.
 
-## Getting Started
+![naranja](https://github.com/byronsmb/comida_app_naranja/assets/139835923/7f785700-dbb3-4a80-b953-10f1898a675c)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+INSPIRADO EN: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://dribbble.com/shots/7630705-Food-App-UI-Design-Template/attachments/395130?mode=media
